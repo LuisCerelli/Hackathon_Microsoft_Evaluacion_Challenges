@@ -33,6 +33,10 @@ El gráfico a continuación resume las calificaciones de los desafíos ordenados
 | Filtrado de contenido basado en roles | 1.5        | 2           | 2          | 1.5      |
 | Voz RAG                               | 2.5        | 3           | 3          | 2        |
 
+## Documentación Detallada
+
+Para un análisis profundo de cada desafío, consulte nuestro [Análisis Detallado de Desafíos](Análisis_Detallado_de_Desafíos.md).
+
 ## Autor
 Luis Alberto Cerelli    
 
