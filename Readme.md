@@ -20,7 +20,7 @@ Flexibilidad y alcance del desafío.
 ### Puntuaciones y Gráfico
 El gráfico a continuación resume las calificaciones de los desafíos ordenados por su promedio general:
 
-![Gráfico de Evaluaciones](/Users/luisalbertocerelli/Desktop/00-Todo/14_Hackaton_Real/Evaluacion_Challenges/imagenes/evaluacion_desafios.pdf)
+![Gráfico de Evaluaciones](imagenes/evaluacion_desafios.pdf)
 
 #### Tabla de Puntuaciones
 | Desafío                                | Viabilidad | Rendimiento | Innovación | Amplitud |
